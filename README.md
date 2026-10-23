@@ -6,7 +6,7 @@ You give the business name and city. The plugin looks up that single business on
 
 ## What it connects to
 
-One remote MCP server, `https://mcp.holasara.ai/mcp`, operated by BotBit Inc. It needs no login and no API key, and every tool is read only. Nothing in this plugin runs code on your machine, uses hooks, or reads your environment.
+One remote MCP server, `https://mcp.holasara.ai/mcp`, operated by BotBit Inc. It needs no account to use and every tool is read only. Nothing in this plugin runs code on your machine, uses hooks, or reads your environment.
 
 ## Tools
 
