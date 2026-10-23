@@ -1,0 +1,22 @@
+{
+  "name": "salon-med-spa-checkup",
+  "displayName": "Beauty & Wellness Biz Grader",
+  "version": "0.1.4",
+  "description": "Checkup for salons, spas, med spas and aesthetic clinics: Google Business Profile gaps, reviews, local competitors, online booking signals and an estimated range of missed bookings, from public Google Maps data.",
+  "author": {
+    "name": "BotBit Inc.",
+    "email": "support@rayapp.io",
+    "url": "https://holasara.ai/en/chatgpt"
+  },
+  "homepage": "https://holasara.ai/en/chatgpt",
+  "keywords": [
+    "salon",
+    "med spa",
+    "spa",
+    "appointments",
+    "bookings",
+    "reviews",
+    "Google Business Profile"
+  ],
+  "license": "UNLICENSED"
+}
